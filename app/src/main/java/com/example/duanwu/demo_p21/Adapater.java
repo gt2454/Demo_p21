@@ -96,7 +96,7 @@ public class Adapater  extends RecyclerView.Adapter {
         public MyHolder2(@NonNull View itemView) {
             super(itemView);
            imageView2= itemView.findViewById(R.id.image2);
-
+           //..
         }
     }
 
